@@ -3,8 +3,8 @@
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mariofernandez.dev/)](https://mariofernandez.dev/)
 
 ## I'm a Gamer, Friend, Developer, and Trumpet player!
-
-- 🔭 I’m currently working on a [project called Eco-Soap Bank][https://github.com/EcoSoapBank]!
+- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a project called [Eco-Soap Bank][EcoSoap]!
 - 🌱 I’m currently learning more in-depth Python, GraphQL, ApolloClient, and life. 🤣
 - 👯 I’m looking to collaborate with other developers!
 - 🥅 2020 Goals: Learning better interview skills, and improving upon my previous projects.
@@ -62,3 +62,4 @@
 [website]: https://mariofernandez.dev/
 [instagram]: https://instagram.com/marioo.fernandez
 [linkedin]: https://www.linkedin.com/in/mariodev/
+[EcoSoap]: https://github.com/EcoSoapBank
