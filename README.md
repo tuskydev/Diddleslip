@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mariofernandez.dev/)](https://mariofernandez.dev/)
 
 ## I'm a Gamer, Friend, Developer, and Trumpet player!
-- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🔭 I’m currently working on a project called [Eco-Soap Bank][EcoSoap]!
 - 🌱 I’m currently learning more in-depth Python, GraphQL, ApolloClient, and life. 🤣
 - 👯 I’m looking to collaborate with other developers!
@@ -45,18 +44,6 @@
 
 <img align="left" alt="Didleslip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Diddleslip" />
 
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 
 [website]: https://mariofernandez.dev/
