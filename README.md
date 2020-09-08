@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a project called [Eco-Soap Bank][EcoSoap]!
 - 🌱 I’m striving to learn more in-depth Python, GraphQL, ApolloClient, and life. 🤣
 - 👯 I’m looking to collaborate with other developers!
-- 🥅 2020 Goals: Learning better interview skills, and improving upon my previous projects.
+- 🥅 2020 Goals: To learn better interview skills, and improve upon my previous projects.
 - ⚡ Fun fact: I love to play the trumpet and saxophone.
 
 ### Spotify Playing 🎧
